@@ -9,7 +9,7 @@
   "keywords": [
     "vue-cli"
   ],
-  "author": "zhangjingyuan",
+  "author": "mfg",
   "license": "ISC",
   "dependencies": {
     "@nbjump/pwa-webpack-plugin": "0.0.1",
